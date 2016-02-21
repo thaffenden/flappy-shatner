@@ -1,0 +1,7 @@
+Scripts\
+Lib\
+Include\
+__pycache__\
+pip-selfcheck.json
+share\
+.idea\
